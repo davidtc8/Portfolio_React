@@ -1,0 +1,6 @@
+To run the code:
+- 1: Open a cmd in C:\Users\David Torres\Documents\Personal Coding Projects\Portfolio_React\react-portflio-website-1
+- 2: run: "npm start" That will start the server
+
+Where can you continue the video
+- 6/17 - 2hrs: continue on 44:59 min

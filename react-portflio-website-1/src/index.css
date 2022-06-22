@@ -73,6 +73,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 /*Selects all <h2> elements where the parent is a <section> element */
